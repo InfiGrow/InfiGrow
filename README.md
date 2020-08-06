@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 -------------
 
-- 📱 &nbsp; Full stack Developer
+- 📱 &nbsp; Developers who enjoy pain
 - 👔 &nbsp; Python Lover 
 - 🚀 &nbsp; Life is short, Don't waste your time.
 
