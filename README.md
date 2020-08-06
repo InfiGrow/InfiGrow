@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+-------------
+
+- 📱 &nbsp; Full stack Developer
+- 👔 &nbsp; Python Lover 
+- 🚀 &nbsp; Life is short, Don't waste your time.
