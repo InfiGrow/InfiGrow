@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 ## ✍🏻  Recent Proejct posts
 
  - Stock Chat App
-   - ![Stock capy image](https://lh3.googleusercontent.com/Bp9qOi_KtLvtigGF_3lB7umOKOVY0S2W6KtimGRP5lijLFQjZM_HWfMZrqfnAlkbzv-a=w720-h310-rw)
- - 
+   - ![Stock capy](http://globalinformationnet.site/wp-content/uploads/2020/02/1e2b8329d6345a6401f2b8958d4c3b8a-768x576.png)
