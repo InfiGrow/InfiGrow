@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 ## ✍🏻  Recent Proejct posts
 
  - Stock Market App
-   - ![Stock capy](https://static.dribbble.com/users/1495010/screenshots/4932772/dribbble.png)
+   - ![Stock capy](https://static.dribbble.com/users/1495010/screenshots/4932772/dribbble.png){: width="100" height="100"}
