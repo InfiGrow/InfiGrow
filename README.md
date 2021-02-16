@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 
 ## ✍🏻  Recent Proejct posts
 
- - #### Stock Market App
-   - <img src="https://static.dribbble.com/users/1495010/screenshots/4932772/dribbble.png" width="250">
    
- - #### Second Start-up Plan(Digital Healthcare App)
+ - #### React Spring boot Proejct
   
   
