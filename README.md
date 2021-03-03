@@ -34,6 +34,11 @@ Here are some ideas to get you started:
 ---
 ![youngsikwon's github stats](https://github-readme-stats.vercel.app/api?username=youngsikwon&show_icons=true)
 ---
+### Online Judge 💻
+
+* BOJ: [ddtlr3200](https://www.acmicpc.net/user/ddtlr3200)
+  * solvedac: [ddtlr3200](https://solved.ac/profile/ddtlr3200)
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ddtlr3200)](https://solved.ac/youngsikwon)
   
   
