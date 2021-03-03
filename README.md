@@ -45,6 +45,8 @@ Here are some ideas to get you started:
   ### Contacts 📫
 
 * Github Repo Issue
-* Instagram DM: @06_youngsik
+* <p align='center'>
+<a href="https://instagram.com/ini.arga"><img height="30" src="https://github.com/youngsikwon/youngsikwon/blob/master/instagram.svg?raw=true"></a>&nbsp;&nbsp;
+</p><br/>
 * Email: youngsik3200@gmail.com
   
