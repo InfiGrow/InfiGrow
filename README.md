@@ -42,4 +42,9 @@ Here are some ideas to get you started:
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ddtlr3200)](https://solved.ac/youngsikwon)
   
+  ### Contacts 📫
+
+* Github Repo Issue
+* Instagram DM: @06_youngsik
+* Email: youngsik3200@gmail.com
   
