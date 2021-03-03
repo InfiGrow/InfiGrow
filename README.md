@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 ---
 ![youngsikwon's github stats](https://github-readme-stats.vercel.app/api?username=youngsikwon&show_icons=true)
 ---
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=youngsikwon)](https://solved.ac/kinetic27)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=youngsikwon)](https://solved.ac/youngsikwon)
   
   
