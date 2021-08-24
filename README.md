@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -------------
 
 - 📱 &nbsp; Developers who enjoy pain
-- 👔 &nbsp; Python Lover 
+- 👔 &nbsp; Java Lover 
 - 🚀 &nbsp; Life is short, Don't waste your time.
 
 
