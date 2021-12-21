@@ -1,7 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
                   
-<img height="600" src="https://github.com/youngsikwon/youngsikwon/blob/master/giphy.gif"></a>
-&nbsp;&nbsp;
+<div align=center>
+    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coder GIF">
+</div>
 
 
 ### Hi there👋
