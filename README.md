@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 ## ✍🏻  Recent Proejct posts
 
    
- - #### React Spring boot Proejct
+
 
 ---
-![youngsikwon's github stats](https://github-readme-stats.vercel.app/api?username=youngsikwon&show_icons=true)
-[![youngsikwon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=youngsikwon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/youngsikwon)
+![youngsikwon's github stats](https://github-readme-stats.vercel.app/api?username=DavidJack-s&show_icons=true)
+[![youngsikwon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=youngsikwon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/DavidJack-s)
 ---
 ### Online Judge 💻
 
