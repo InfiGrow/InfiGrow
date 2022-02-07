@@ -32,9 +32,10 @@ Here are some ideas to get you started:
 
 -------------
 
-- 📱 &nbsp; Developers who enjoy pain
-- 👔 &nbsp; Java Lover 
-- 🚀 &nbsp; Life is short, Don't waste your time.
+### 💁🏻‍♂️ Breif
+- I'm Jack, 잭
+- Working as a **Back-end Engineer**
+- Mainly using **Kotlin**, Java
 
 
 ## ✍🏻  Recent Proejct posts
