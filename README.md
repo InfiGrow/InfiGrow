@@ -57,6 +57,5 @@ Here are some ideas to get you started:
   ### Contacts 📫
 
 * Github Repo Issue <p align='center'>
-*  Instagram : DM : <a href="https://www.instagram.com/06_youngsik/"><img height="30" src="https://github.com/youngsikwon/youngsikwon/blob/master/instagram.svg?raw=true"></a>&nbsp;&nbsp;
 </p><br/>
 
