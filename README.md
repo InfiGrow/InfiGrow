@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 -------------
 
-### 💁🏻‍♂️ Breif
+### 💁🏻‍♂️ Brief
 - I'm Jack, 잭
 - Working as a **Back-end Engineer**
 - Mainly using **Kotlin**, Java
