@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### 💁🏻‍♂️ Brief
 - I'm Jack, 잭
-- Working as a **Back-end Engineer** and ** Machine Learning Engineer **
+- Working as a **Back-end Engineer** and **Machine Learning Engineer**
 - Mainly using **Kotlin**, **Java** , **pyhton**
 
 
