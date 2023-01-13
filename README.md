@@ -36,9 +36,6 @@ Here are some ideas to get you started:
 - Working as a **Back-end Engineer** and **Machine Learning Engineer**
 - Mainly using **Kotlin**, **Java** , **pyhton**
 
-
-## ✍🏻  Recent Proejct posts
-
    
 
 
