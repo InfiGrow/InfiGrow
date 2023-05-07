@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 ### 💁🏻‍♂️ Brief
 - I'm Jack, 잭
 - My dream is to grow into a versatile developer.
-- 
 - Mainly using **Kotlin**, **Java**
 
    
