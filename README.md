@@ -1,5 +1,5 @@
-<h1 align="left" id="InfiGrow-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h1 align="left" id="InfiGrow-title">:wave: Hello there! I'm InfiGrow</h1>
+<h3 align="left">I do SW/SR/Platform  Engineering things</h3>
 
 <p align="left">
   <a href="https://github.com/InfiGrow/InfiGrow">
