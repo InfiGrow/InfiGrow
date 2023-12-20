@@ -61,38 +61,5 @@
   </tr>
 </table>
 
-<h2 align="left">Coding Activity</h2>
 
-> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-  1021.2 hr  ┤                                                                                           ╭─────── 
-  1018.9 hr  ┤                                                                         ╭─────────────────╯        
-  1016.7 hr  ┤                                                                        ╭╯                          
-  1014.5 hr  ┤                                                                      ╭─╯                           
-  1012.3 hr  ┤                                                          ╭───────────╯                             
-  1010.0 hr  ┤                                                         ╭╯                                         
-  1007.8 hr  ┤                                                      ╭──╯                                          
-  1005.6 hr  ┤                                                  ╭───╯                                             
-  1003.4 hr  ┤                                           ╭──────╯                                                 
-  1001.1 hr  ┤                                         ╭─╯                                                        
-   998.9 hr  ┤                                   ╭─────╯                                                          
-   996.7 hr  ┤                     ╭─────────────╯                                                                
-   994.5 hr  ┼─────────────────────╯                                                                              
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
-<!-- links -->
-
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
+[Visit My Site](https://github.com/InfiGrow)
