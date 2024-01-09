@@ -1,6 +1,9 @@
 <h1 align="left" id="HopeDad-title">:wave: 안녕하세요! 저는 HopesDad</h1>
 <h3 align="left">SW/SR/Platform Engineering 전문가입니다</h3>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHopesDad%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HopesDad&langs_count=8)](https://github.com/HopesDad/github-readme-stats)
 <br>
 
 <table>
