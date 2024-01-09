@@ -3,7 +3,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=HopesDad&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=HopesDad&show_icons=true&theme=shadow_blue" alt="GitHub Stats">
   </div>
   <div style="flex: 1; margin-left: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HopesDad" alt="Top Languages">
