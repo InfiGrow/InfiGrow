@@ -1,8 +1,14 @@
 <h1 align="left" id="HopeDad-title">:wave: Hi HopedDad </h1>
 <h3 align="left">SW Engineering </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HopesDad&show_icons=true&theme=radical)
-
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=HopesDad&show_icons=true&theme=radical" alt="GitHub Stats">
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HopesDad" alt="Top Languages">
+  </div>
+</div>
 
 
 <table>
@@ -23,6 +29,5 @@
   </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HopesDad)](https://github.com/anuraghazra/github-readme-stats)
 
-[내 사이트 방문하기](https://github.com/HopesDad)
+
