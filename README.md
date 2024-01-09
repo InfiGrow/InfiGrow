@@ -1,6 +1,5 @@
 <h1 align="left" id="HopeDad-title">:wave: 안녕하세요! 저는 HopesDad</h1>
 <h3 align="left">SW/SR/Platform Engineering 전문가입니다</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HopesDad&langs_count=8)](https://github.com/HopesDad/github-readme-stats) 
 
 
 
