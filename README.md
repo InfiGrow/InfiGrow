@@ -1,13 +1,13 @@
-<h1 align="left" id="HopeDad-title">:wave: 안녕하세요! 저는 HopesDad</h1>
-<h3 align="left">SW/SR/Platform Engineering 전문가입니다</h3>
+<h1 align="left" id="HopeDad-title">:wave: Hi HopedDad </h1>
+<h3 align="left">SW Engineering </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HopesDad&show_icons=true&theme=radical)
 
-<br>
+
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="100%">
       <a href="#HopesDad-tech">
         <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
       </a>
