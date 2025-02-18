@@ -15,10 +15,3 @@ I am a developer with a goal to harness the power of metacognition to convey com
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=youngsikwon&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 animated movie
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=youngsikwon&icon=2&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
